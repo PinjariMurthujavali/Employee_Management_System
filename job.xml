@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="job">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/job/src-20241126T160347Z-001.zip!/" />
+      <root url="jar://$PROJECT_DIR$/job/idea-20241126T155918Z-001.zip!/" />
+      <root url="jar://$PROJECT_DIR$/job/jcalendar-0.8.1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/job/out-20241126T160320Z-001.zip!/" />
+      <root url="jar://$PROJECT_DIR$/job/jcalendar-0.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/job/mysql-connector-java-8.0.28.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
